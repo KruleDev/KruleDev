@@ -1,1 +1,1 @@
-Belgian Junior Web Developper
+Belgian Junior Web Developer
