@@ -1,1 +1,1 @@
-Belgian Junior Web Developer
+Belgian Angular Developer
